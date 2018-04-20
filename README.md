@@ -8,5 +8,5 @@ A complete package which includes
 * use in normal view or 'table view' or 'collection view'
 * change color of border 
 * use default feature
-* chaneg animation time
+* change animation time
 * use minValue or maxValue
